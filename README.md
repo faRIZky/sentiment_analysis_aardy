@@ -5,11 +5,9 @@ This project implements sentiment analysis on Aardy customer reviews using vario
 ## 📁 Project Structure
 
 - `scrapping.py`: Script for collecting review data from related sources.
-- `aardy_reviews_clean.csv`: Dataset of cleaned customer reviews.
+- `aardy_reviews_clean.csv`: Dataset of the users' reviews.
 - `sentiment_analysis_aardy_Achmad_Fariz.ipynb`: Main notebook that includes the entire analysis process, from data preprocessing to model evaluation.
 - `requirements.txt`: List of required Python libraries for the project.
-- `models/`: Folder containing the saved models used for sentiment prediction (`model_dense_layer.h5`, `model_logistic_regression.h5`, etc.).
-- `count_vectorizer_70.pkl`: The CountVectorizer object used to transform input text data for model prediction.
 
 ## 🚀 Getting Started
 
