@@ -1,0 +1,9 @@
+selenium
+pandas
+numpy
+nltk
+scikit-learn
+keras
+tensorflow
+imbalanced-learn
+joblib
